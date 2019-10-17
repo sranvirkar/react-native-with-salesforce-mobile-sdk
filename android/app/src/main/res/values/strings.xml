@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_type">com.react.smartsync.login</string>
+	<string name="app_name"><b>reactSmartSync</b></string>
+	<string name="app_package">com.react.smartsync</string>
+</resources>
